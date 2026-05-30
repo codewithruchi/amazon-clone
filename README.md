@@ -22,4 +22,4 @@ https://codewithruchi.github.io/amazon-clone/
 
 Screenshot
 
-"Amazon Clone Screenshot"(amz-screenshot.png)
+[Amazon Clone Screenshot](amz-screenshot.png)
