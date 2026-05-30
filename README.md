@@ -18,8 +18,8 @@ Technologies Used
 
 Live Demo
 
-(Paste your live website link here)
+https://codewithruchi.github.io/amazon-clone/
 
 Screenshot
 
-"Amazon Clone Screenshot" (screenshot.png)
+"Amazon Clone Screenshot" (amz-screenshot.png)
